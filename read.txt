@@ -6,3 +6,4 @@
 6 git confit --global user.email
 7 git push -u orgin master
  so simple
+hii
