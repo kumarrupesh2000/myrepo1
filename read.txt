@@ -1,0 +1,8 @@
+1 create account on github
+2 empty repository 
+3 local system me folder 
+4 fir git init 
+5 git config --global user.name 
+6 git confit --global user.email
+7 git push -u orgin master
+ so simple
